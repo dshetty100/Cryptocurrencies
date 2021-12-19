@@ -17,7 +17,7 @@ The analysis was carried out in the following steps:
 
 ## Results
 
-The analysis shows that all cryptocurrencies can be grouped into four different classes (clusters): class = 0 (purple),  class = 1 (pink), class = 2 (orange), class = 3 (yellow).
+* The analysis shows that all cryptocurrencies can be grouped into four different classes (clusters): class = 0 (purple),  class = 1 (pink), class = 2 (orange), class = 3 (yellow).
 ![3D Scatter Plot](Images/Cluster_3D.png)
-The tradeable cryptocurrencies in a 2D plot with Total Coin Supply versus Total Coin Mined for the four classes is also shown below.
+* The tradeable cryptocurrencies in a 2D plot with Total Coin Supply versus Total Coin Mined for the four classes is also shown below.
 ![2D Scaled plot](Images/Coin_supply_Coin_mined.png)
