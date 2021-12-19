@@ -1,10 +1,10 @@
 
 # Cryptocurrencies Analysis
 
-Purpose of Analysis
+## Purpose of the Analysis
 The purpose of this project is to analyze the cryptocurrency dataset (crypto_data.csv) and create a report that shows what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for a new investment portfolio that is being offered by an investment bank for its customers.
 
-Analysis
+## Overview of the Analysis
 The analysis uses unsupervised machine learning to examine cryptocurrency data
 
 The analysis was carried out in the following steps:
@@ -15,7 +15,7 @@ The analysis was carried out in the following steps:
 * Finally, the data was visualized using a 3D scatter plot. The data was also transformed for "Total Coin Supply" and "Total Coins Mined" to create a 2D scatter plot.
 
 
-Results
+## Results
 
 The analysis shows that all cryptocurrencies can be grouped into four different classes (clusters): class = 0 (purple),  class = 1 (pink), class = 2 (orange), class = 3 (yellow).
 ![3D Scatter Plot](Images/Cluster_3D.png)
